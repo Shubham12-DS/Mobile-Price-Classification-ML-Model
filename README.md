@@ -8,7 +8,7 @@ This is a simple web application built with Streamlit to predict the price range
 
 ### ## 🚀 Live Demo
 
-https://mobile-price-classification-ml-model-byshu.streamlit.app/
+https://mobile-price-classification-ml-model-8dl2caa6u6ky4dxbcgxza9.streamlit.app/
 
 ---
 
